@@ -10,21 +10,21 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Does the project have an AI contribution policy? | link |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |  https://github.com/flatironinstitute/finufft.git  |
+| Main/documentation website | https://finufft.readthedocs.io/en/latest/index.html  |
+| Year project was started | 2017  |
+| Number of contributors in the past year | 17 |
+| Number of contributors in the lifetime of the project | 37 |
+| Number of distinct affiliations | 1(?) |
+| Where do development discussions take place? | Github Issues |
+| Typical number of emails/comments per week? | 5-6 |
+| Typical number of commits per week? | 5-8 |
+| Typical commit size | ~ 100 lines |
+| How does the project accept contributions? | Pull requests |
+| Does the project have an automated test suite? | Yes |
+| Does the project use continuous integration? | Yes |
+| Does the project have an AI contribution policy? | (I don't think so? They have sections citing Claude in the code, though.) |
+| Are any legal/licensing steps required to contribute? | Not really, you just kind of are agreeing to your contributions being automatically licensed under the same terms as the existing project |
 
 ### Install and run
 
