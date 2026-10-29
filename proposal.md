@@ -31,8 +31,8 @@ primary audience is.*
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [check!] I have installed the software
+- [check!] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
@@ -44,6 +44,12 @@ otherwise have concerns about the appropriateness of the software.  If
 the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
+
+I only sought out a library on fast fourier transformations because I saw a reel that showed two circles drawing my favorite character, and it said it was made possible with the use of fourier algorithms.
+I remembered us briefly talking about Fourier basis in class, so tangentially I assumed that this must be a concept relevant to numerical analysis.
+Based off of what I've researched it seems like an appropriate thing to research for this project, as it has applications relevant to things we've done in class.
+But I also recognize that it is not as if we've covered FFT during class or lecture, so maybe it's not a very appropriate thing to make a project analysis on because I definitely don't know what a DFT is.
+At least, not at a very competent level...
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
