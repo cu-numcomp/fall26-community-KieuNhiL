@@ -33,8 +33,8 @@ encountered a problem.
 
 - [check!] I have installed the software
 - [check!] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [check!] I have run the test suite
+- [check!] The test suite passes
 
 ### Notes/concerns/risks
 
@@ -50,6 +50,9 @@ I remembered us briefly talking about Fourier basis in class, so tangentially I 
 Based off of what I've researched it seems like an appropriate thing to research for this project, as it has applications relevant to things we've done in class.
 But I also recognize that it is not as if we've covered FFT during class or lecture, so maybe it's not a very appropriate thing to make a project analysis on because I definitely don't know what a DFT is.
 At least, not at a very competent level...
+
+I used the test suite for Python only, following the directions in NumCompFall2026\fall26-community-KieuNhiL\finufft\python\finufft\test\README.md.
+The clone I made is Python version v2.5.0
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
